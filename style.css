@@ -26,3 +26,24 @@ p {
 ul {
     font-size: 25px;
 }
+table {
+    width: 100%;
+}
+thead { 
+    font-weight: 400;
+    color: white;
+    background-color: #20a9e5;
+    text-align: left;
+}
+
+table {
+    font-size: 25px;
+    border-collapse: collapse;
+}
+td {
+    height: 50px;
+    width: 100px;
+}
+.coloretabella {
+    background-color: #b1e5f2;
+}
