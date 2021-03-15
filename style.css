@@ -3,3 +3,26 @@ header {
     background-color: #4ea0ff;
     height: 200px;
 }
+h1 {
+    font-size: 70px;
+    font-weight: 900;
+}
+#autore {
+    color: #20a9e5;
+}
+h2 {
+    color: grey;
+    font-weight: 450;
+}
+.immagini {
+    width: 100%;
+}
+.descrizione {
+    font-size: 20px;
+}
+p {
+    font-size: 30px;
+}
+ul {
+    font-size: 25px;
+}
